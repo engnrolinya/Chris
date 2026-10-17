@@ -1,0 +1,6 @@
+{
+  "name": "Consistent Experts - New Dawn Smart City",
+  "description": "Official real estate portal for Consistent Experts and New Dawn Smart City Estate in New Asaba, Delta State, Nigeria. Discover flexible payment plans, verify estate infrastructure, and book inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
